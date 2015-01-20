@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">十二关</string>
+	<string name="custom_random_integer_title">四位随机数字</string>
+	<string name="custom_random_integer_desc">四位随机数字</string>
+	<string name="custom_image_view_title">自定义图片</string>
+	<string name="custom_image_view_desc">自定义图片</string>
+	<string name="custom_flow_layout_title">自定义流式布局</string>
+	<string name="custom_flow_layout_desc">自定义流式布局</string>
+	<string name="custom_grid_layout_title">等分格子布局</string>
+	<string name="custom_grid_layout_desc">等分格子布局</string>
+
+	<color name="White">#ffffff</color>
+</resources>

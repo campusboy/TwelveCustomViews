@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:custom="http://schemas.android.com/apk/res/com.twelve"
+			  android:orientation="vertical"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent">
+
+	<com.twelve.custom.CustomViewImage
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:padding="10dp"
+			custom:image="@drawable/ic_launcher"
+			custom:imageScaleType="center"
+			custom:titleText="hello android ! "
+			custom:titleTextColor="#ff0000"
+			custom:titleTextSize="30sp"/>
+
+	<com.twelve.custom.CustomViewImage
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:padding="10dp"
+			custom:image="@drawable/ic_launcher"
+			custom:imageScaleType="center"
+			custom:titleText="hello world welcome"
+			custom:titleTextColor="#00ff00"
+			custom:titleTextSize="20sp"/>
+
+	<com.twelve.custom.CustomViewImage
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:padding="10dp"
+			custom:image="@drawable/girl"
+			custom:imageScaleType="fillXY"
+			custom:titleText="妹子~"
+			custom:titleTextColor="#ff0000"
+			custom:titleTextSize="12sp"/>
+</LinearLayout>
