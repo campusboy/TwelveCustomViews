@@ -13,7 +13,7 @@
 			android:padding="10dp"
 			custom:image="@drawable/ic_launcher"
 			custom:imageScaleType="center"
-			custom:titleText="hello android ! "
+			custom:titleText="hello android , you are pretty! "
 			custom:titleTextColor="#ff0000"
 			custom:titleTextSize="30sp"/>
 
