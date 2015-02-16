@@ -29,8 +29,9 @@
 			android:layout_height="fill_parent"
 			android:background="#1e1d1d"
 			android:orientation="vertical"
+			android:layoutMode="clipBounds"
 			app:itemMargin="1"
-			app:numColumns="2" >
+			app:numColumns="4" >
 	</com.twelve.custom.CustomViewGroupGridLayout>
 
 </LinearLayout>

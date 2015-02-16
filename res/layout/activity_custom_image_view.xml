@@ -11,28 +11,6 @@
 			android:layout_height="wrap_content"
 			android:layout_gravity="center"
 			android:padding="10dp"
-			custom:image="@drawable/ic_launcher"
-			custom:imageScaleType="center"
-			custom:titleText="hello android , you are pretty! "
-			custom:titleTextColor="#ff0000"
-			custom:titleTextSize="30sp"/>
-
-	<com.twelve.custom.CustomViewImage
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_gravity="center"
-			android:padding="10dp"
-			custom:image="@drawable/ic_launcher"
-			custom:imageScaleType="center"
-			custom:titleText="hello world welcome"
-			custom:titleTextColor="#00ff00"
-			custom:titleTextSize="20sp"/>
-
-	<com.twelve.custom.CustomViewImage
-			android:layout_width="wrap_content"
-			android:layout_height="wrap_content"
-			android:layout_gravity="center"
-			android:padding="10dp"
 			custom:image="@drawable/girl"
 			custom:imageScaleType="fillXY"
 			custom:titleText="妹子~"
