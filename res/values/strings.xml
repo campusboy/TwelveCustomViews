@@ -10,5 +10,7 @@
 	<string name="custom_grid_layout_title">等分格子布局</string>
 	<string name="custom_grid_layout_desc">等分格子布局</string>
 
+	<string name="text_view_samples_title">TextView控件使用</string>
+	<string name="text_view_samples_desc">TextView控件使用</string>
 	<color name="White">#ffffff</color>
 </resources>

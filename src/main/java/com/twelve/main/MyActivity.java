@@ -10,10 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 import com.twelve.R;
-import com.twelve.demo.CustomFlowLayoutActivity;
-import com.twelve.demo.CustomGridLayoutActivity;
-import com.twelve.demo.CustomImageViewActivity;
-import com.twelve.demo.CustomTitleViewActivity;
+import com.twelve.demo.*;
 
 public class MyActivity extends Activity {
     /**
@@ -52,7 +49,8 @@ public class MyActivity extends Activity {
             new DemoInfo(R.string.custom_random_integer_title,R.string.custom_random_integer_desc, CustomTitleViewActivity.class),
             new DemoInfo(R.string.custom_image_view_title,R.string.custom_image_view_desc, CustomImageViewActivity.class),
             new DemoInfo(R.string.custom_flow_layout_title,R.string.custom_flow_layout_desc, CustomFlowLayoutActivity.class),
-            new DemoInfo(R.string.custom_grid_layout_title,R.string.custom_grid_layout_desc, CustomGridLayoutActivity.class)
+            new DemoInfo(R.string.custom_grid_layout_title,R.string.custom_grid_layout_desc, CustomGridLayoutActivity.class),
+            new DemoInfo(R.string.text_view_samples_title,R.string.text_view_samples_desc, TextViewSamplesActivity.class)
     };
 
     private class DemoListAdapter extends BaseAdapter {

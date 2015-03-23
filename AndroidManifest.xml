@@ -17,5 +17,6 @@
 		<activity android:name=".demo.CustomImageViewActivity"/>
 		<activity android:name=".demo.CustomFlowLayoutActivity"/>
 		<activity android:name=".demo.CustomGridLayoutActivity"/>
+		<activity android:name=".demo.TextViewSamplesActivity"/>
 	</application>
 </manifest>
