@@ -12,5 +12,7 @@
 
 	<string name="text_view_samples_title">TextView控件使用</string>
 	<string name="text_view_samples_desc">TextView控件使用</string>
-	<color name="White">#ffffff</color>
+	<string name="edit_text_samples_title">EditText控件使用</string>
+	<string name="edit_text_samples_desc">EditText控件使用</string>
+<color name="White">#ffffff</color>
 </resources>
