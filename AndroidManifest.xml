@@ -20,5 +20,6 @@
 		<activity android:name=".demo.CustomGridLayoutActivity"/>
 		<activity android:name=".demo.TextViewSamplesActivity"/>
 		<activity android:name=".demo.EditTextSamplesActivity"/>
+		<activity android:name=".demo.ButtonViewSampleActivity"/>
 	</application>
 </manifest>

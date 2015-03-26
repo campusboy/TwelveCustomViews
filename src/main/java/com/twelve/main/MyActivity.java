@@ -51,7 +51,8 @@ public class MyActivity extends Activity {
             new DemoInfo(R.string.custom_flow_layout_title,R.string.custom_flow_layout_desc, CustomFlowLayoutActivity.class),
             new DemoInfo(R.string.custom_grid_layout_title,R.string.custom_grid_layout_desc, CustomGridLayoutActivity.class),
             new DemoInfo(R.string.text_view_samples_title,R.string.text_view_samples_desc, TextViewSamplesActivity.class),
-            new DemoInfo(R.string.edit_text_samples_title,R.string.edit_text_samples_desc, EditTextSamplesActivity.class)
+            new DemoInfo(R.string.edit_text_samples_title,R.string.edit_text_samples_desc, EditTextSamplesActivity.class),
+            new DemoInfo(R.string.button_samples_title,R.string.button_samples_desc, ButtonViewSampleActivity.class)
     };
 
     private class DemoListAdapter extends BaseAdapter {

@@ -14,5 +14,7 @@
 	<string name="text_view_samples_desc">TextView控件使用</string>
 	<string name="edit_text_samples_title">EditText控件使用</string>
 	<string name="edit_text_samples_desc">EditText控件使用</string>
+	<string name="button_samples_title">Button点击效果</string>
+	<string name="button_samples_desc">Button点击效果</string>
 <color name="White">#ffffff</color>
 </resources>
