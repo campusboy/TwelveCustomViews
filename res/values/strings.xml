@@ -16,5 +16,7 @@
 	<string name="edit_text_samples_desc">EditText控件使用</string>
 	<string name="button_samples_title">Button点击效果</string>
 	<string name="button_samples_desc">Button点击效果</string>
+	<string name="list_view_samples_title">ListView控件使用</string>
+	<string name="list_view_samples_desc">ListView控件使用</string>
 <color name="White">#ffffff</color>
 </resources>

@@ -21,5 +21,6 @@
 		<activity android:name=".demo.TextViewSamplesActivity"/>
 		<activity android:name=".demo.EditTextSamplesActivity"/>
 		<activity android:name=".demo.ButtonViewSampleActivity"/>
+		<activity android:name=".demo.ListViewSamplesActivity"/>
 	</application>
 </manifest>
